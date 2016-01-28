@@ -1,0 +1,24 @@
+{
+  "name": "detect-webworker",
+  "version": "1.0.0",
+  "description": "Detect web worker environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisirota/detect-webworker.git"
+  },
+  "keywords": [
+    "detect",
+    "worker",
+    "webworker"
+  ],
+  "author": "Boris Sirota <borisirota@gmail.com> (https://github.com/borisirota)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borisirota/detect-webworker/issues"
+  },
+  "homepage": "https://github.com/borisirota/detect-webworker"
+}
